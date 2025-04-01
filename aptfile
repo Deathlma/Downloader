@@ -1,4 +1,4 @@
 ffmpeg
-libavcodec-extra
-libmp3lame
 libx264
+libmp3lame
+libfdk-aac
