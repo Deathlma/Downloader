@@ -1,4 +1,4 @@
 ffmpeg
-libx264
-libmp3lame
-libfdk-aac
+libx264-dev
+libmp3lame-dev
+libfdk-aac-dev
